@@ -6,8 +6,8 @@
 [[ $- != *i* ]] && return
 
 #aliases
-alias lessgo='startx'
 alias ls='ls --color=auto'
+alias pacseek='~/.config/pacseek/pacseek'
 alias grep='grep --color=auto'
 alias pS='sudo pacman -S'
 alias pSyu='sudo pacman -Syu'
