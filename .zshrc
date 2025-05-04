@@ -76,5 +76,4 @@ alias tree='tree -C'
 # SHELL INTEGRATIONS
 
 eval "$(fzf --zsh)"
-wal -i ~/Photos/wallpapers/alien_landscape0.png -q
 
