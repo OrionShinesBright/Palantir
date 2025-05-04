@@ -64,7 +64,7 @@ zstyle ':fzf-tab:complete:cat:*' fzf-preview 'bat -f $realpath'
 
 # ALIASES
 
-alias ls='eza --icons=always --color=always --color-scale age --color-scale-mode gradient -a --group-directories-first --git -F'
+alias ls='eza --icons=always --color=always --color-scale age --color-scale-mode gradient --group-directories-first --git -F'
 alias pacseek='~/.config/pacseek/pacseek'
 alias grep='grep --color=auto'
 alias pS='sudo pacman -S'
