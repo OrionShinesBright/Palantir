@@ -71,7 +71,7 @@ alias pS='sudo pacman -S'
 alias pSyu='sudo pacman -Syu'
 alias battery='cat /sys/class/power_supply/BAT0/capacity'
 alias pQe='pacman -Qqe | less -N --use-color'
-alias tree='tree -C'
+alias tree='ls -T'
 
 # SHELL INTEGRATIONS
 
