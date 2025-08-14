@@ -37,7 +37,7 @@ alias gcl='git clone'
 
 alias nv='NVIM_APPNAME=myvim nvim'
 
-export PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/orion/SYSTEM/local/bin:/home/orion/SYSTEM/local/bin:/home/orion/SYSTEM/config/rofi/scripts:/home/orion/SYSTEM/config/rofi/applets/bin
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/orion/.local/bin:/home/orion/.local/share:/home/orion/.config/rofi/scripts:/home/orion/.config/rofi/applets/bin
 
 source ~/git-prompt.sh
 
