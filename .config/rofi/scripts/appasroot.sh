@@ -1,0 +1,1 @@
+../applets/bin/appasroot.sh
